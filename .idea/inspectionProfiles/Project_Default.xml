@@ -1,0 +1,23 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.df_valid" />
+          <option value="main.training_data_path" />
+          <option value="main.train_images" />
+          <option value="main.train_targets" />
+          <option value="main.train_aug" />
+          <option value="main.train_bs" />
+          <option value="main.valid_bs" />
+          <option value="main.device" />
+          <option value="main.valid_aug" />
+          <option value="main.epochs" />
+          <option value="main.model_path" />
+          <option value="main.fold" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
