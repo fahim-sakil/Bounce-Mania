@@ -51,3 +51,9 @@ Bounce Mania is a two-player Python game that brings classic pong action to your
   <img src="https://github.com/fahim-sakil/Bounce-Mania/assets/97132320/8469783c-c062-4aec-93f7-428b3573996c" alt="Image">
 </p>
 <p align="center"><b>Fig 4: User Won Screen</b></p>
+
+## Video Playthrough
+https://github.com/fahim-sakil/Bounce-Mania/assets/97132320/ad927821-e22b-491c-abbb-159683de5253
+
+
+
